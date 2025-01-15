@@ -20,6 +20,7 @@ unzip rawdata.zip
 
 ###########################################
 # Complete assignment here
+# Completed by Darshan Panesar
 
 # 1. Create a directory named data
 
